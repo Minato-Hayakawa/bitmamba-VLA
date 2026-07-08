@@ -1,3 +1,0 @@
-[submodule "third_party/bitmamba"]
-    path = third_party/bitmamba
-    url = https://github.com/Zhayr1/BitMamba-2.git
